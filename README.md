@@ -8,17 +8,8 @@ This is my personal frontend developer portfolio website showcasing the projects
 
 📸 Screenshots
 Home
-![alt text](screenshot1.png)
+![Home](assets/screenshot.png)
 
-
-
-Projects
-![alt text](screenshot2.png)
-
-
-
-Skills & Contact
-![alt text](screenshot3.png)
 
 
 
